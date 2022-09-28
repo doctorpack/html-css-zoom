@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.items-top-right{
+    display: flex;
+    background-color: rgba(231, 157, 18, 0.7);
+    width: 100px;
+    height: 20px;
+    justify-content:flex-end;
+}
+/* BLOCCHI IMMAGINI FLEXATI */
+body{
+    background-color: black;
+}
+.img-block1{
+    display:flex;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+.img-block2{
+    display:flex;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 10px;
+}
+.img{
+    max-width: 14%;
+    margin-right: 5px;
+}
