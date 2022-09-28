@@ -13,6 +13,7 @@
 /* BLOCCHI IMMAGINI FLEXATI */
 body{
     background-color: black;
+
 }
 .img-block1{
     display:flex;
